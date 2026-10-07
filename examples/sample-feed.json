@@ -1,0 +1,9 @@
+{
+  "source": "synthetic-json",
+  "indicators": [
+    {"value": "example.test", "type": "domain"},
+    {"value": "https://Example.TEST:443/report?id=23#review", "type": "url"},
+    {"value": "198.51.100.23", "type": "ipv4"},
+    {"value": "not an indicator", "type": "domain"}
+  ]
+}

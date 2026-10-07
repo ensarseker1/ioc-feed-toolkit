@@ -1,0 +1,9 @@
+{
+  "source": "synthetic-json",
+  "indicators": [
+    {"value": "https://Example.TEST:443/path#fragment", "type": "url"},
+    {"value": "2001:db8::42", "type": "ipv6"},
+    {"value": "example.test", "type": "domain"},
+    {"value": 42, "type": "domain"}
+  ]
+}

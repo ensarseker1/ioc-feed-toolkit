@@ -1,0 +1,5 @@
+indicator,type,source
+example.test.,domain,synthetic-csv
+198.51.100.7,ipv4,synthetic-csv
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,sha256,synthetic-csv
+999.999.999.999,ipv4,synthetic-csv

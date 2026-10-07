@@ -1,0 +1,5 @@
+# Synthetic documentation-only IOCs; .test and TEST-NET ranges are reserved.
+Example.TEST
+203.0.113.42
+2001:0db8:0:0:0:0:0:42
+not an indicator
